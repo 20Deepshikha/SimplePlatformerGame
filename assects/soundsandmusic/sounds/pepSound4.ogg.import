@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/pepSound4.ogg-d67af287882231c9b195c8e242eceb82.oggstr"
+
+[deps]
+
+source_file="res://assects/soundsandmusic/sounds/pepSound4.ogg"
+dest_files=[ "res://.import/pepSound4.ogg-d67af287882231c9b195c8e242eceb82.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
